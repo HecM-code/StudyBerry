@@ -1,1 +1,1 @@
-# StudyBerry hola mundo
+# Pagina oficial de Study Berry
