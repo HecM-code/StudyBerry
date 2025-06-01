@@ -20,6 +20,18 @@ body {
   position: relative;
   text-align: left;
 }
+
+.instagram-link{
+   position: fixed;
+      top: -10px; /* Mueve el enlace al borde superior */
+     right: 10px; /* Lo pega al borde derecho */
+      padding: 5px;
+     text-decoration: none;
+     font-weight: bold;
+     border-radius: 5px;
+  
+      }
+
 .nav-bar {
   display: flex;
   gap: 20px;
